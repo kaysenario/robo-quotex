@@ -1,4 +1,3 @@
 flask
 requests
 gunicorn
-git+https://github.com/pinnndu/py-quotex.git
